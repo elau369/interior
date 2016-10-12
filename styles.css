@@ -1,0 +1,12 @@
+.column1 {
+  width: 355px;
+  float: left;;
+  background-color: teal;
+  margin-right: 36px;
+}
+.column2 {
+  width: 270px;
+  float: left;;
+  background-color: magenta;
+  margin-left: 36px;
+}
